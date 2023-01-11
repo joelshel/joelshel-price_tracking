@@ -43,3 +43,6 @@ Python: 3.8.10
 
 ## Contributors
 * joelshel
+
+## License
+This project is under the [MIT license](https://github.com/joelshel/joelshel-price_tracking/blob/main/LICENSE).

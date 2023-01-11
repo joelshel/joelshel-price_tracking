@@ -9,6 +9,15 @@ Implemented for:
 * Nike,
 * Adidas.
 
+### Example images
+![Nike_Air_Force_1_Low_Retro](https://raw.githubusercontent.com/joelshel/joelshel-price_tracking/main/ex_imgs/Nike_Air_Force_1_Low_Retro.png)
+
+![Nike_Dunk_Low](https://raw.githubusercontent.com/joelshel/joelshel-price_tracking/main/ex_imgs/Nike_Dunk_Low.png)
+
+![Sapatilhas_Adi2000](https://raw.githubusercontent.com/joelshel/joelshel-price_tracking/main/ex_imgs/Sapatilhas_Adi2000.png)
+
+![Sapatilhas_Stan_Smith.png](https://raw.githubusercontent.com/joelshel/joelshel-price_tracking/main/ex_imgs/Sapatilhas_Stan_Smith.png)
+
 ## Install requirements
 Use pip or pip3, depending of your python and pip version.
 

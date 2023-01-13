@@ -1,4 +1,4 @@
-# joelshel-price_tracking
+# price_tracking
 ## Description
 Program to track the prices of certain products.
 
